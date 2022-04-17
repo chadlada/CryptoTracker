@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Square+Peg&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Oswald:wght@200&family=Square+Peg&display=swap');
 
 root {
   font: 16px / 1 sans-serif;
@@ -34,4 +34,8 @@ header {
 .instructions {
   display: flex;
   justify-content: center;
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
+  // font-family: 'Lobster', cursive;
+  // letter-spacing: 2px;
 }
